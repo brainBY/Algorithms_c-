@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int number=8;
+const int number=8;
 int sorted[8]; // 정렬 배열은 항상 전역 변수로 선언
 
 void merge(int a[], int m, int middle, int n){
