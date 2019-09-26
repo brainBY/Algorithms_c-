@@ -1,1 +1,1 @@
-Algorithms cpp 저장소
+Algorithms cpp 저장소입니다
