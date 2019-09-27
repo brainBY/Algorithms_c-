@@ -1,1 +1,0 @@
-Algorithms cpp 한국어 테스트
