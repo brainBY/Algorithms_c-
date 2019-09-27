@@ -1,4 +1,4 @@
-//1초당 1억번연산
+//1초당 1억번 연산가능
 #include <stdio.h>
 
 int array[3];
